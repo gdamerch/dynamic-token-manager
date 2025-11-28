@@ -42,6 +42,7 @@ You can also include a logging system via Fluent Bit or in the GitHub Action
 
 # Workflow Diagram
 Flowchart of the workflow as described above:
+<br>
 ![<br>Trigger: Scheduled cron job
 <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; |
 <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; |
